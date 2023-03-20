@@ -1,4 +1,6 @@
 ## ChangeLog
+#### Version 0.7.4 (20.03.2022)
+- [bugfix:] Plugin not working for Android 12
 
 #### Version 0.7.3 (07.08.2019)
 This is more a "just publish all changes after long time" release.
